@@ -85,3 +85,6 @@ b. Calculate the percentage of WFH.
 
 WFH % = DIVIDE([WFH], [Total Working Days], 0)
 
+Project link:![Screenshot 2024-03-03 222217](https://github.com/Visha239/Employee-Presence-and-Work-Patterns-Analysis-for-HR/assets/93894680/2f43a620-9578-465c-9651-82ae234b5d20)
+
+
